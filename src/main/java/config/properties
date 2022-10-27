@@ -1,0 +1,23 @@
+url = http://automationpractice.com/
+
+EmailAddress = eyblood@gmail.com
+Password = Ey12345
+
+searchBar = Blouse
+
+Firstname = Abu ali
+Lastname = amin
+CompanyInfo = EY
+Address = 2230 19th ave
+address2 = atp 2b
+City = brooklyn
+State  = new york
+ZipCode = 11211
+HomePhone = 7184924244
+MobilePhone = 2129990000
+AdditionalInfo = i love soccer
+addressReference2 = dadAddress
+
+
+
+browser = chrome

@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="ABC application TEst Automation Suite">
+    <test name="ABC App Test cases">
+        <parameter name="URL" value="https://login.yahoo.com/"/>
+        <parameter name="emailId" value="test@yahoo.com"/>
+
+
+        <classes>
+
+            <class name="TestCases.HomePageTest" />
+            <class name="TestCases.SignInPageTest" />
+            <class name="TestCases.WomenPageTest" />
+
+
+        </classes>
+
+    </test>
+
+</suite>
